@@ -1,0 +1,401 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Aim
+  m_Mask: 00000000000000000000000000000000000000000100000001000000010000000100000000000000000000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Armature
+    m_Weight: 1
+  - m_Path: Armature/Hips
+    m_Weight: 1
+  - m_Path: "Armature/Hips/Front\u6446_0_0"
+    m_Weight: 1
+  - m_Path: "Armature/Hips/Front\u6446_0_0/Front\u6446_1_0"
+    m_Weight: 1
+  - m_Path: "Armature/Hips/Front\u6446_0_0/Front\u6446_1_0/Front\u6446_3_0"
+    m_Weight: 1
+  - m_Path: "Armature/Hips/Front\u6446_0_0/Front\u6446_1_0/Front\u6446_3_0/Front\u6446_4_0"
+    m_Weight: 1
+  - m_Path: "Armature/Hips/Front\u6446_0_1"
+    m_Weight: 1
+  - m_Path: "Armature/Hips/Front\u6446_0_1/Front\u6446_1_1"
+    m_Weight: 1
+  - m_Path: "Armature/Hips/Front\u6446_0_1/Front\u6446_1_1/Front\u6446_3_1"
+    m_Weight: 1
+  - m_Path: "Armature/Hips/Front\u6446_0_1/Front\u6446_1_1/Front\u6446_3_1/Front\u6446_4_1"
+    m_Weight: 1
+  - m_Path: "Armature/Hips/Front\u6446_0_2"
+    m_Weight: 1
+  - m_Path: "Armature/Hips/Front\u6446_0_2/Front\u6446_1_2"
+    m_Weight: 1
+  - m_Path: "Armature/Hips/Front\u6446_0_2/Front\u6446_1_2/Front\u6446_3_2"
+    m_Weight: 1
+  - m_Path: "Armature/Hips/Front\u6446_0_2/Front\u6446_1_2/Front\u6446_3_2/Front\u6446_4_2"
+    m_Weight: 1
+  - m_Path: "Armature/Hips/Front\u6446_0_3"
+    m_Weight: 1
+  - m_Path: "Armature/Hips/Front\u6446_0_3/Front\u6446_1_3"
+    m_Weight: 1
+  - m_Path: "Armature/Hips/Front\u6446_0_3/Front\u6446_1_3/Front\u6446_3_3"
+    m_Weight: 1
+  - m_Path: "Armature/Hips/Front\u6446_0_3/Front\u6446_1_3/Front\u6446_3_3/Front\u6446_4_3"
+    m_Weight: 1
+  - m_Path: "Armature/Hips/Front\u6446_0_4"
+    m_Weight: 1
+  - m_Path: "Armature/Hips/Front\u6446_0_4/Front\u6446_1_4"
+    m_Weight: 1
+  - m_Path: "Armature/Hips/Front\u6446_0_4/Front\u6446_1_4/Front\u6446_3_4"
+    m_Weight: 1
+  - m_Path: "Armature/Hips/Front\u6446_0_4/Front\u6446_1_4/Front\u6446_3_4/Front\u6446_4_4"
+    m_Weight: 1
+  - m_Path: "Armature/Hips/Front\u6446_0_5"
+    m_Weight: 1
+  - m_Path: "Armature/Hips/Front\u6446_0_5/Front\u6446_1_5"
+    m_Weight: 1
+  - m_Path: "Armature/Hips/Front\u6446_0_5/Front\u6446_1_5/Front\u6446_3_5"
+    m_Weight: 1
+  - m_Path: "Armature/Hips/Front\u6446_0_5/Front\u6446_1_5/Front\u6446_3_5/Front\u6446_4_5"
+    m_Weight: 1
+  - m_Path: Armature/Hips/Left leg
+    m_Weight: 1
+  - m_Path: Armature/Hips/Left leg/Left knee
+    m_Weight: 1
+  - m_Path: Armature/Hips/Left leg/Left knee/Left ankle
+    m_Weight: 1
+  - m_Path: Armature/Hips/Left leg/Left knee/Left ankle/Left toe
+    m_Weight: 1
+  - m_Path: Armature/Hips/Right leg
+    m_Weight: 1
+  - m_Path: Armature/Hips/Right leg/Right knee
+    m_Weight: 1
+  - m_Path: Armature/Hips/Right leg/Right knee/Right ankle
+    m_Weight: 1
+  - m_Path: Armature/Hips/Right leg/Right knee/Right ankle/Right toe
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/BreastUpper2_L
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/BreastUpper2_R
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Upper Chest
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Upper Chest/Left shoulder
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Upper Chest/Left shoulder/Left arm
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Upper Chest/Left shoulder/Left arm/Left elbow
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Upper Chest/Left shoulder/Left arm/Left elbow/Left
+      wrist
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Upper Chest/Left shoulder/Left arm/Left elbow/Left
+      wrist/IndexFinger1_L
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Upper Chest/Left shoulder/Left arm/Left elbow/Left
+      wrist/IndexFinger1_L/IndexFinger2_L
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Upper Chest/Left shoulder/Left arm/Left elbow/Left
+      wrist/IndexFinger1_L/IndexFinger2_L/IndexFinger3_L
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Upper Chest/Left shoulder/Left arm/Left elbow/Left
+      wrist/LittleFinger1_L
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Upper Chest/Left shoulder/Left arm/Left elbow/Left
+      wrist/LittleFinger1_L/LittleFinger2_L
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Upper Chest/Left shoulder/Left arm/Left elbow/Left
+      wrist/LittleFinger1_L/LittleFinger2_L/LittleFinger3_L
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Upper Chest/Left shoulder/Left arm/Left elbow/Left
+      wrist/MiddleFinger1_L
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Upper Chest/Left shoulder/Left arm/Left elbow/Left
+      wrist/MiddleFinger1_L/MiddleFinger2_L
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Upper Chest/Left shoulder/Left arm/Left elbow/Left
+      wrist/MiddleFinger1_L/MiddleFinger2_L/MiddleFinger3_L
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Upper Chest/Left shoulder/Left arm/Left elbow/Left
+      wrist/RingFinger1_L
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Upper Chest/Left shoulder/Left arm/Left elbow/Left
+      wrist/RingFinger1_L/RingFinger2_L
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Upper Chest/Left shoulder/Left arm/Left elbow/Left
+      wrist/RingFinger1_L/RingFinger2_L/RingFinger3_L
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Upper Chest/Left shoulder/Left arm/Left elbow/Left
+      wrist/Thumb0_L
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Upper Chest/Left shoulder/Left arm/Left elbow/Left
+      wrist/Thumb0_L/Thumb1_L
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Upper Chest/Left shoulder/Left arm/Left elbow/Left
+      wrist/Thumb0_L/Thumb1_L/Thumb2_L
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Upper Chest/Left shoulder/Left arm/Left elbow/zHandTwist_L
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Upper Chest/Left shoulder/Left arm/zArmTwist_L
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Upper Chest/Neck
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Upper Chest/Neck/Head
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Upper Chest/Neck/Head/Antenna_0_1
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Upper Chest/Neck/Head/Antenna_0_1/Antenna_1_1
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Upper Chest/Neck/Head/Antenna_0_1/Antenna_1_1/Antenna_2_1
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Upper Chest/Neck/Head/Antenna_0_1/Antenna_1_1/Antenna_2_1/Antenna_3_1
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Upper Chest/Neck/Head/Eye_L
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Upper Chest/Neck/Head/Eye_R
+    m_Weight: 1
+  - m_Path: "Armature/Hips/Spine/Chest/Upper Chest/Neck/Head/Lower\u9F7F"
+    m_Weight: 1
+  - m_Path: "Armature/Hips/Spine/Chest/Upper Chest/Neck/Head/Upper\u9F7F"
+    m_Weight: 1
+  - m_Path: "Armature/Hips/Spine/Chest/Upper Chest/Neck/Head/\u53D1_0_1"
+    m_Weight: 1
+  - m_Path: "Armature/Hips/Spine/Chest/Upper Chest/Neck/Head/\u53D1_0_1/\u53D1_1_1"
+    m_Weight: 1
+  - m_Path: "Armature/Hips/Spine/Chest/Upper Chest/Neck/Head/\u53D1_0_1/\u53D1_1_1/\u53D1_2_1"
+    m_Weight: 1
+  - m_Path: "Armature/Hips/Spine/Chest/Upper Chest/Neck/Head/\u53D1_0_1/\u53D1_1_1/\u53D1_2_1/\u53D1_3_1"
+    m_Weight: 1
+  - m_Path: "Armature/Hips/Spine/Chest/Upper Chest/Neck/Head/\u53D1_0_1/\u53D1_1_1/\u53D1_2_1/\u53D1_3_1/\u53D1_4_1"
+    m_Weight: 1
+  - m_Path: "Armature/Hips/Spine/Chest/Upper Chest/Neck/Head/\u53D1_0_1/\u53D1_1_1/\u53D1_2_1/\u53D1_3_1/\u53D1_4_1/\u53D1_5_1"
+    m_Weight: 1
+  - m_Path: "Armature/Hips/Spine/Chest/Upper Chest/Neck/Head/\u53D1_0_1/\u53D1_1_1/\u53D1_2_1/\u53D1_3_1/\u53D1_4_1/\u53D1_5_1/\u53D1_6_1"
+    m_Weight: 1
+  - m_Path: "Armature/Hips/Spine/Chest/Upper Chest/Neck/Head/\u53D1_0_1/\u53D1_1_1/\u53D1_2_1/\u53D1_3_1/\u53D1_4_1/\u53D1_5_1/\u53D1_6_1/\u53D1_7_1"
+    m_Weight: 1
+  - m_Path: "Armature/Hips/Spine/Chest/Upper Chest/Neck/Head/\u53D1_0_1/\u53D1_1_1/\u53D1_2_1/\u53D1_3_1/\u53D1_4_1/\u53D1_5_1/\u53D1_6_1/\u53D1_7_1/\u53D1_8_1"
+    m_Weight: 1
+  - m_Path: "Armature/Hips/Spine/Chest/Upper Chest/Neck/Head/\u53D1_0_1_L"
+    m_Weight: 1
+  - m_Path: "Armature/Hips/Spine/Chest/Upper Chest/Neck/Head/\u53D1_0_1_L/\u53D1_1_1_L"
+    m_Weight: 1
+  - m_Path: "Armature/Hips/Spine/Chest/Upper Chest/Neck/Head/\u53D1_0_1_L/\u53D1_1_1_L/\u53D1_2_1_L"
+    m_Weight: 1
+  - m_Path: "Armature/Hips/Spine/Chest/Upper Chest/Neck/Head/\u53D1_0_1_L/\u53D1_1_1_L/\u53D1_2_1_L/\u53D1_3_1_L"
+    m_Weight: 1
+  - m_Path: "Armature/Hips/Spine/Chest/Upper Chest/Neck/Head/\u53D1_0_1_L/\u53D1_1_1_L/\u53D1_2_1_L/\u53D1_3_1_L/\u53D1_4_1_L"
+    m_Weight: 1
+  - m_Path: "Armature/Hips/Spine/Chest/Upper Chest/Neck/Head/\u53D1_0_1_L/\u53D1_1_1_L/\u53D1_2_1_L/\u53D1_3_1_L/\u53D1_4_1_L/\u53D1_5_1_L"
+    m_Weight: 1
+  - m_Path: "Armature/Hips/Spine/Chest/Upper Chest/Neck/Head/\u53D1_0_1_R"
+    m_Weight: 1
+  - m_Path: "Armature/Hips/Spine/Chest/Upper Chest/Neck/Head/\u53D1_0_1_R/\u53D1_1_1_R"
+    m_Weight: 1
+  - m_Path: "Armature/Hips/Spine/Chest/Upper Chest/Neck/Head/\u53D1_0_1_R/\u53D1_1_1_R/\u53D1_2_1_R"
+    m_Weight: 1
+  - m_Path: "Armature/Hips/Spine/Chest/Upper Chest/Neck/Head/\u53D1_0_1_R/\u53D1_1_1_R/\u53D1_2_1_R/\u53D1_3_1_R"
+    m_Weight: 1
+  - m_Path: "Armature/Hips/Spine/Chest/Upper Chest/Neck/Head/\u53D1_0_1_R/\u53D1_1_1_R/\u53D1_2_1_R/\u53D1_3_1_R/\u53D1_4_1_R"
+    m_Weight: 1
+  - m_Path: "Armature/Hips/Spine/Chest/Upper Chest/Neck/Head/\u53D1_0_1_R/\u53D1_1_1_R/\u53D1_2_1_R/\u53D1_3_1_R/\u53D1_4_1_R/\u53D1_5_1_R"
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Upper Chest/Right shoulder
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Upper Chest/Right shoulder/Right arm
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Upper Chest/Right shoulder/Right arm/Right
+      elbow
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Upper Chest/Right shoulder/Right arm/Right
+      elbow/Right wrist
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Upper Chest/Right shoulder/Right arm/Right
+      elbow/Right wrist/IndexFinger1_R
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Upper Chest/Right shoulder/Right arm/Right
+      elbow/Right wrist/IndexFinger1_R/IndexFinger2_R
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Upper Chest/Right shoulder/Right arm/Right
+      elbow/Right wrist/IndexFinger1_R/IndexFinger2_R/IndexFinger3_R
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Upper Chest/Right shoulder/Right arm/Right
+      elbow/Right wrist/LittleFinger1_R
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Upper Chest/Right shoulder/Right arm/Right
+      elbow/Right wrist/LittleFinger1_R/LittleFinger2_R
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Upper Chest/Right shoulder/Right arm/Right
+      elbow/Right wrist/LittleFinger1_R/LittleFinger2_R/LittleFinger3_R
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Upper Chest/Right shoulder/Right arm/Right
+      elbow/Right wrist/MiddleFinger1_R
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Upper Chest/Right shoulder/Right arm/Right
+      elbow/Right wrist/MiddleFinger1_R/MiddleFinger2_R
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Upper Chest/Right shoulder/Right arm/Right
+      elbow/Right wrist/MiddleFinger1_R/MiddleFinger2_R/MiddleFinger3_R
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Upper Chest/Right shoulder/Right arm/Right
+      elbow/Right wrist/RingFinger1_R
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Upper Chest/Right shoulder/Right arm/Right
+      elbow/Right wrist/RingFinger1_R/RingFinger2_R
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Upper Chest/Right shoulder/Right arm/Right
+      elbow/Right wrist/RingFinger1_R/RingFinger2_R/RingFinger3_R
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Upper Chest/Right shoulder/Right arm/Right
+      elbow/Right wrist/Thumb0_R
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Upper Chest/Right shoulder/Right arm/Right
+      elbow/Right wrist/Thumb0_R/Thumb1_R
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Upper Chest/Right shoulder/Right arm/Right
+      elbow/Right wrist/Thumb0_R/Thumb1_R/Thumb2_R
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Upper Chest/Right shoulder/Right arm/Right
+      elbow/zHandTwist_R
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Upper Chest/Right shoulder/Right arm/zArmTwist_R
+    m_Weight: 1
+  - m_Path: "Armature/Hips/\u540E\u6446_0_0"
+    m_Weight: 1
+  - m_Path: "Armature/Hips/\u540E\u6446_0_0/\u540E\u6446_1_0"
+    m_Weight: 1
+  - m_Path: "Armature/Hips/\u540E\u6446_0_0/\u540E\u6446_1_0/\u540E\u6446_2_0"
+    m_Weight: 1
+  - m_Path: "Armature/Hips/\u540E\u6446_0_0/\u540E\u6446_1_0/\u540E\u6446_2_0/\u540E\u6446_3_0"
+    m_Weight: 1
+  - m_Path: "Armature/Hips/\u540E\u6446_0_0/\u540E\u6446_1_0/\u540E\u6446_2_0/\u540E\u6446_3_0/\u540E\u6446_4_0"
+    m_Weight: 1
+  - m_Path: "Armature/Hips/\u540E\u6446_0_1"
+    m_Weight: 1
+  - m_Path: "Armature/Hips/\u540E\u6446_0_1/\u540E\u6446_1_1"
+    m_Weight: 1
+  - m_Path: "Armature/Hips/\u540E\u6446_0_1/\u540E\u6446_1_1/\u540E\u6446_2_1"
+    m_Weight: 1
+  - m_Path: "Armature/Hips/\u540E\u6446_0_1/\u540E\u6446_1_1/\u540E\u6446_2_1/\u540E\u6446_3_1"
+    m_Weight: 1
+  - m_Path: "Armature/Hips/\u540E\u6446_0_1/\u540E\u6446_1_1/\u540E\u6446_2_1/\u540E\u6446_3_1/\u540E\u6446_4_1"
+    m_Weight: 1
+  - m_Path: "Armature/Hips/\u540E\u6446_0_1/\u540E\u6446_1_1/\u540E\u6446_2_1/\u540E\u6446_3_1/\u540E\u6446_4_1/\u540E\u6446_5_1"
+    m_Weight: 1
+  - m_Path: "Armature/Hips/\u540E\u6446_0_1/\u540E\u6446_1_1/\u540E\u6446_2_1/\u540E\u6446_3_1/\u540E\u6446_4_1/\u540E\u6446_5_1/\u540E\u6446_6_1"
+    m_Weight: 1
+  - m_Path: "Armature/Hips/\u540E\u6446_0_1/\u540E\u6446_1_1/\u540E\u6446_2_1/\u540E\u6446_3_1/\u540E\u6446_4_1/\u540E\u6446_5_1/\u540E\u6446_6_1/\u540E\u6446_7_1"
+    m_Weight: 1
+  - m_Path: "Armature/Hips/\u540E\u6446_0_2"
+    m_Weight: 1
+  - m_Path: "Armature/Hips/\u540E\u6446_0_2/\u540E\u6446_1_2"
+    m_Weight: 1
+  - m_Path: "Armature/Hips/\u540E\u6446_0_2/\u540E\u6446_1_2/\u540E\u6446_2_2"
+    m_Weight: 1
+  - m_Path: "Armature/Hips/\u540E\u6446_0_2/\u540E\u6446_1_2/\u540E\u6446_2_2/\u540E\u6446_3_2"
+    m_Weight: 1
+  - m_Path: "Armature/Hips/\u540E\u6446_0_2/\u540E\u6446_1_2/\u540E\u6446_2_2/\u540E\u6446_3_2/\u540E\u6446_4_2"
+    m_Weight: 1
+  - m_Path: "Armature/Hips/\u540E\u6446_0_2/\u540E\u6446_1_2/\u540E\u6446_2_2/\u540E\u6446_3_2/\u540E\u6446_4_2/\u540E\u6446_5_2"
+    m_Weight: 1
+  - m_Path: "Armature/Hips/\u540E\u6446_0_2/\u540E\u6446_1_2/\u540E\u6446_2_2/\u540E\u6446_3_2/\u540E\u6446_4_2/\u540E\u6446_5_2/\u540E\u6446_6_2"
+    m_Weight: 1
+  - m_Path: "Armature/Hips/\u540E\u6446_0_2/\u540E\u6446_1_2/\u540E\u6446_2_2/\u540E\u6446_3_2/\u540E\u6446_4_2/\u540E\u6446_5_2/\u540E\u6446_6_2/\u540E\u6446_7_2"
+    m_Weight: 1
+  - m_Path: "Armature/Hips/\u540E\u6446_0_3"
+    m_Weight: 1
+  - m_Path: "Armature/Hips/\u540E\u6446_0_3/\u540E\u6446_1_3"
+    m_Weight: 1
+  - m_Path: "Armature/Hips/\u540E\u6446_0_3/\u540E\u6446_1_3/\u540E\u6446_2_3"
+    m_Weight: 1
+  - m_Path: "Armature/Hips/\u540E\u6446_0_3/\u540E\u6446_1_3/\u540E\u6446_2_3/\u540E\u6446_3_3"
+    m_Weight: 1
+  - m_Path: "Armature/Hips/\u540E\u6446_0_3/\u540E\u6446_1_3/\u540E\u6446_2_3/\u540E\u6446_3_3/\u540E\u6446_4_3"
+    m_Weight: 1
+  - m_Path: "Armature/Hips/\u540E\u6446_0_3/\u540E\u6446_1_3/\u540E\u6446_2_3/\u540E\u6446_3_3/\u540E\u6446_4_3/\u540E\u6446_5_3"
+    m_Weight: 1
+  - m_Path: "Armature/Hips/\u540E\u6446_0_3/\u540E\u6446_1_3/\u540E\u6446_2_3/\u540E\u6446_3_3/\u540E\u6446_4_3/\u540E\u6446_5_3/\u540E\u6446_6_3"
+    m_Weight: 1
+  - m_Path: "Armature/Hips/\u540E\u6446_0_3/\u540E\u6446_1_3/\u540E\u6446_2_3/\u540E\u6446_3_3/\u540E\u6446_4_3/\u540E\u6446_5_3/\u540E\u6446_6_3/\u540E\u6446_7_3"
+    m_Weight: 1
+  - m_Path: "Armature/Hips/\u540E\u6446_0_4"
+    m_Weight: 1
+  - m_Path: "Armature/Hips/\u540E\u6446_0_4/\u540E\u6446_1_4"
+    m_Weight: 1
+  - m_Path: "Armature/Hips/\u540E\u6446_0_4/\u540E\u6446_1_4/\u540E\u6446_2_4"
+    m_Weight: 1
+  - m_Path: "Armature/Hips/\u540E\u6446_0_4/\u540E\u6446_1_4/\u540E\u6446_2_4/\u540E\u6446_3_4"
+    m_Weight: 1
+  - m_Path: "Armature/Hips/\u540E\u6446_0_4/\u540E\u6446_1_4/\u540E\u6446_2_4/\u540E\u6446_3_4/\u540E\u6446_4_4"
+    m_Weight: 1
+  - m_Path: "Armature/Hips/\u540E\u6446_0_4/\u540E\u6446_1_4/\u540E\u6446_2_4/\u540E\u6446_3_4/\u540E\u6446_4_4/\u540E\u6446_5_4"
+    m_Weight: 1
+  - m_Path: "Armature/Hips/\u540E\u6446_0_4/\u540E\u6446_1_4/\u540E\u6446_2_4/\u540E\u6446_3_4/\u540E\u6446_4_4/\u540E\u6446_5_4/\u540E\u6446_6_4"
+    m_Weight: 1
+  - m_Path: "Armature/Hips/\u540E\u6446_0_5"
+    m_Weight: 1
+  - m_Path: "Armature/Hips/\u540E\u6446_0_5/\u540E\u6446_1_5"
+    m_Weight: 1
+  - m_Path: "Armature/Hips/\u540E\u6446_0_5/\u540E\u6446_1_5/\u540E\u6446_2_5"
+    m_Weight: 1
+  - m_Path: "Armature/Hips/\u540E\u6446_0_5/\u540E\u6446_1_5/\u540E\u6446_2_5/\u540E\u6446_3_5"
+    m_Weight: 1
+  - m_Path: "Armature/Hips/\u540E\u6446_0_5/\u540E\u6446_1_5/\u540E\u6446_2_5/\u540E\u6446_3_5/\u540E\u6446_4_5"
+    m_Weight: 1
+  - m_Path: "Armature/Hips/\u540E\u6446_0_5/\u540E\u6446_1_5/\u540E\u6446_2_5/\u540E\u6446_3_5/\u540E\u6446_4_5/\u540E\u6446_5_5"
+    m_Weight: 1
+  - m_Path: "Armature/Hips/\u540E\u6446_0_5/\u540E\u6446_1_5/\u540E\u6446_2_5/\u540E\u6446_3_5/\u540E\u6446_4_5/\u540E\u6446_5_5/\u540E\u6446_6_5"
+    m_Weight: 1
+  - m_Path: "Armature/Hips/\u540E\u6446_0_6"
+    m_Weight: 1
+  - m_Path: "Armature/Hips/\u540E\u6446_0_6/\u540E\u6446_1_6"
+    m_Weight: 1
+  - m_Path: "Armature/Hips/\u540E\u6446_0_6/\u540E\u6446_1_6/\u540E\u6446_2_6"
+    m_Weight: 1
+  - m_Path: "Armature/Hips/\u540E\u6446_0_6/\u540E\u6446_1_6/\u540E\u6446_2_6/\u540E\u6446_3_6"
+    m_Weight: 1
+  - m_Path: "Armature/Hips/\u540E\u6446_0_6/\u540E\u6446_1_6/\u540E\u6446_2_6/\u540E\u6446_3_6/\u540E\u6446_4_6"
+    m_Weight: 1
+  - m_Path: "Armature/Hips/\u540E\u6446_0_7"
+    m_Weight: 1
+  - m_Path: "Armature/Hips/\u540E\u6446_0_7/\u540E\u6446_1_7"
+    m_Weight: 1
+  - m_Path: "Armature/Hips/\u540E\u6446_0_7/\u540E\u6446_1_7/\u540E\u6446_2_7"
+    m_Weight: 1
+  - m_Path: "Armature/Hips/\u6D41\u82CF1_0_1"
+    m_Weight: 1
+  - m_Path: "Armature/Hips/\u6D41\u82CF1_0_1/\u6D41\u82CF1_1_1"
+    m_Weight: 1
+  - m_Path: "Armature/Hips/\u6D41\u82CF1_0_1/\u6D41\u82CF1_1_1/\u6D41\u82CF1_2_1"
+    m_Weight: 1
+  - m_Path: "Armature/Hips/\u6D41\u82CF1_0_1/\u6D41\u82CF1_1_1/\u6D41\u82CF1_2_1/\u6D41\u82CF1_3_1"
+    m_Weight: 1
+  - m_Path: "Armature/Hips/\u6D41\u82CF1_0_1/\u6D41\u82CF1_1_1/\u6D41\u82CF1_2_1/\u6D41\u82CF1_3_1/\u6D41\u82CF1_4_1"
+    m_Weight: 1
+  - m_Path: "Armature/Hips/\u6D41\u82CF1_0_1/\u6D41\u82CF1_1_1/\u6D41\u82CF1_2_1/\u6D41\u82CF1_3_1/\u6D41\u82CF1_4_1/\u6D41\u82CF1_5_1"
+    m_Weight: 1
+  - m_Path: "Armature/Hips/\u6D41\u82CF2_0_1"
+    m_Weight: 1
+  - m_Path: "Armature/Hips/\u6D41\u82CF2_0_1/\u6D41\u82CF2_1_1"
+    m_Weight: 1
+  - m_Path: "Armature/Hips/\u6D41\u82CF2_0_1/\u6D41\u82CF2_1_1/\u6D41\u82CF2_2_1"
+    m_Weight: 1
+  - m_Path: "Armature/Hips/\u6D41\u82CF2_0_1/\u6D41\u82CF2_1_1/\u6D41\u82CF2_2_1/\u6D41\u82CF2_3_1"
+    m_Weight: 1
+  - m_Path: "Armature/Hips/\u6D41\u82CF2_0_1/\u6D41\u82CF2_1_1/\u6D41\u82CF2_2_1/\u6D41\u82CF2_3_1/\u6D41\u82CF2_4_1"
+    m_Weight: 1
+  - m_Path: "Armature/Hips/\u6D41\u82CF2_0_1/\u6D41\u82CF2_1_1/\u6D41\u82CF2_2_1/\u6D41\u82CF2_3_1/\u6D41\u82CF2_4_1/\u6D41\u82CF2_5_1"
+    m_Weight: 1
+  - m_Path: "Armature/Hips/\u6D41\u82CF2_0_1/\u6D41\u82CF2_1_1/\u6D41\u82CF2_2_1/\u6D41\u82CF2_3_1/\u6D41\u82CF2_4_1/\u6D41\u82CF2_5_1/\u6D41\u82CF2_6_1"
+    m_Weight: 1
+  - m_Path: Body
+    m_Weight: 1

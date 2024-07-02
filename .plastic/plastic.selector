@@ -1,0 +1,4 @@
+repository "TPS demo2@rinsingel@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
