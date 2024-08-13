@@ -20,10 +20,6 @@ public class Shoot : MonoBehaviour
             return instance;
         }
     }
-    private void Update()
-    {
-        Debug.DrawLine(Arch.transform.position, test, Color.red);
-    }
     public void ShootBullet(Vector3 target)
     {
         var bl = Instantiate(Bullet, Arch.transform.position, Arch.transform.rotation);
